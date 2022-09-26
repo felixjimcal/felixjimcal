@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felixjimcal
 - 👀 I’m interested in C++, Qt, C#, .Net and Unit Tests
-- 🌱 I’m keep learning everyday.
+- 🌱 I keep learning everyday.
 - 💞️ I’m looking to collaborate on testing and development with tech. previously mentioned.
 - 📫 How to reach me felixjcalvo@gmail.com
 
