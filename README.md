@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felixjimcal
-- 👀 I’m interested in .Net Core and Unit Tests
+- 👀 I’m interested in Azure DevOps and Testing
 - 🌱 I keep learning everyday.
 - 💞️ I’m looking to collaborate on testing and development with tech. previously mentioned.
 - 📫 How to reach me felixjcalvo@gmail.com
